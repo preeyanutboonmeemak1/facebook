@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "45860016697",
+    "firebase_url": "https://facebook-b453a.firebaseio.com",
+    "project_id": "facebook-b453a",
+    "storage_bucket": "facebook-b453a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45860016697:android:312d1f19ed9c940b7333e8",
+        "android_client_info": {
+          "package_name": "com.preeyanut.facebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45860016697-2sb7u37cbhas9607ph9sn5omgbamcj0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.preeyanut.facebook",
+            "certificate_hash": "1f84a605f3ea460961ad881d9f8afd94c2180fac"
+          }
+        },
+        {
+          "client_id": "45860016697-c9vdsp0g011j1igi1a5i04i7jqvk2kml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwTCt7M4BT35zbNNDLkuNaiw2liRQm7FA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45860016697-c9vdsp0g011j1igi1a5i04i7jqvk2kml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
